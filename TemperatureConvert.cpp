@@ -3,7 +3,7 @@ int main()
 {
 	int c, f, k;
   int code;
-  printf("Made by Zen\n(1)Celsius to Farenheit\n(2)Fahrenheit to Celsius\n(3)Kelvin\n:");
+  printf("Made by Zenolite#0765\n(1)Celsius to Farenheit\n(2)Fahrenheit to Celsius\n(3)Kelvin\n:");
   scanf("%d",&code);
   switch(code)
   {
